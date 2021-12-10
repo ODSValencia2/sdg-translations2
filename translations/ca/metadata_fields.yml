@@ -96,7 +96,7 @@ IMPUTATION: Tractament dels valors perduts (i) a nivell de país i (ii) a nivell
 ADJUSTMENT: Ajustos
 DATA_VALIDATION: Validació
 DATA_COMP: Mètode de càlcul
-REC_USE_LIM: Comentaris i limitacions
+REC_USE_LIM: Observacions
 RATIONALE: Fonaments
 OTHER_METHOD: Altres consideracions metodològiques
 INST_MANDATE: Mandat institucional
