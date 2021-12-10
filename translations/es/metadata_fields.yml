@@ -79,7 +79,7 @@ un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU
 quality_assurance: Seguro de calidad
 international_comparability: Comparabilidad con datos / estándares internacionales
-comments_limitations: Comentarios y limitaciones
+comments_limitations: Observaciones
 rationale_interpretation: Racionalidad e interpretación
 rational_interpretation: Racionalidad e interpretación
 copyright: Derechos de autor
@@ -97,7 +97,7 @@ IMPUTATION: Tratamiento de los valores perdidos (i) a nivel de país y (ii) a ni
 ADJUSTMENT: Ajustes
 DATA_VALIDATION: Validación
 DATA_COMP: Método de cálculo
-REC_USE_LIM: Comentarios y limitaciones
+REC_USE_LIM: Observaciones
 RATIONALE: Fundamentos
 OTHER_METHOD: Otras consideraciones metodológicas
 INST_MANDATE: Mandato institucional
